@@ -1,4 +1,5 @@
 ## Hi there 👋
+![微信图片_20251003085714_66_8](https://github.com/user-attachments/assets/744d3af0-4223-4b13-88c5-77551ee2a5ba)
 
 <!--
 **O-T-H-E-R/O-T-H-E-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
