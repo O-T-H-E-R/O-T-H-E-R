@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Night gathers.
 -->
-I’m currently learning C and Communication Engineering.\t
+I’m currently learning C and Communication Engineering.                                                           
  Night gathers.
